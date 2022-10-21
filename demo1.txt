@@ -1,1 +1,2 @@
-this is the devops class
+this is DevOps class
+this is git hub training class
